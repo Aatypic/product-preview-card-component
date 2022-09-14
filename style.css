@@ -61,7 +61,7 @@ picture img {
 .card__content {
   display: grid;
   align-items: center;
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 h2 {
