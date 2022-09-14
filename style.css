@@ -18,10 +18,6 @@
   --bradius-500: 0.7rem;
 }
 
-* {
-  outline: 2px solid lime;
-}
-
 *,
 *::before,
 *::after {
