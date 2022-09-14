@@ -46,7 +46,7 @@ p,
 
 .card {
   background-color: var(--clr-neutral-100);
-  width: 44em;
+  width: 40em;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   border: 0;
